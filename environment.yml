@@ -22,7 +22,6 @@ dependencies:
 
   - pip:
       - pre-commit
-
       - kaleido
       - sphinx
       - sphinx-autobuild

@@ -102,3 +102,9 @@ def task_plot_locations(depends_on, produces):
         locations_by_round = pickle.load(f)
 
     plot_locations(locations_by_round, produces)
+
+
+# Compile the final output 
+
+def plot(locations_by_round, path):
+    pass
