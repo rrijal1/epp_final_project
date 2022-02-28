@@ -16,7 +16,7 @@ from src.config import BLD
 np.random.seed(12345)
 
 n_types = 2
-n_draws = 30000
+n_draws = 300000
 
 
 def draw_sample():
