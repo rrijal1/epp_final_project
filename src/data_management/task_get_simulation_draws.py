@@ -33,3 +33,9 @@ def save_data(sample, path):
 def task_get_simulation_draws(produces):
     sample = draw_sample()
     save_data(sample, produces)
+
+
+# This is the data to import Matlab Files 
+
+from scipy.io import loadmat
+
