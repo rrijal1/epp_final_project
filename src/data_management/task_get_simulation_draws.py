@@ -16,7 +16,7 @@ from src.config import BLD
 np.random.seed(12345)
 
 n_types = 2
-n_draws = 300000
+n_draws = 30000
 
 
 def draw_sample():
@@ -33,9 +33,3 @@ def save_data(sample, path):
 def task_get_simulation_draws(produces):
     sample = draw_sample()
     save_data(sample, produces)
-
-
-# This is the data to import Matlab Files 
-
-from scipy.io import loadmat
-
