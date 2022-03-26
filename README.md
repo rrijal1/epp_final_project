@@ -7,10 +7,10 @@ IV Regression approach was taken in to account, to compute local projections.
 # How to use the Code
 
 Please clone the repo. You would need to : 
-- Go to the folder and run `conda-develop .` .  
+- Go to the folder and run `conda-develop .` 
 - Run `pytask`.  
 
-One would need some familiarity with pytask to be able to run the code, which has been written on python. 
+The codes have been written on python.   
 
 
 # The Organization
