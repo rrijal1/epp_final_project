@@ -4,7 +4,7 @@ EPP Final Project
 This project was done as part of term assignment to look into estimations of effects of monetary policy. 
 IV Regression approach was taken in to account, to compute local projections. 
 
-# How to use the folders
+# How to use the Code
 
 Please clone the repo. You would need to : 
 - Go to the folder and run conda-develop . 
