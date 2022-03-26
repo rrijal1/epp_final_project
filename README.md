@@ -13,7 +13,7 @@ Please clone the repo. You would need to :
 One would need some familiarity with pytask to be able to run the code, which has been written on python. 
 
 
-# The organization
+# The Organization
 
 All files and folders have been put under src folder. All output files have been excluded from the remote repo but should be replicable using the code.  
 
