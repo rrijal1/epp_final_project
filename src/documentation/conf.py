@@ -45,7 +45,7 @@ source_encoding = "utf-8"
 master_doc = "index"
 
 # General information about the project.
-project = "utility maximization"
+project = "Effects of Monetary Shocks "
 copyright = "2019-, Ram K Rijal"
 
 # The version info for the project you're documenting, acts as replacement for
@@ -192,7 +192,7 @@ latex_documents = [
     (
         "index",
         "project_documentation.tex",
-        """Documentation of the utility maximization project""",
+        """Documentation of the Effects of Monetary Shocks""",
         "Ram K Rijal",
         "manual",
     )
