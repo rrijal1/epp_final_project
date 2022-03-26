@@ -17,7 +17,7 @@ One would need some familiarity with pytask to be able to run the code, which ha
 
 All files and folders have been put under src folder. All output files have been excluded from the remote repo but should be replicable using the code.  
 
-The projects follows closely :  
+The projects follows :  
 
 - [Project Template](https://econ-project-templates.readthedocs.io/en/stable/index.html) - For the template, which was curated by Prof. Hans-Martin von Gaudecker.
 - [Angrist Et Al.](https://www.tandfonline.com/doi/abs/10.1080/07350015.2016.1204919) - For reference purposes only. 
