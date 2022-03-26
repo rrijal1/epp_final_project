@@ -12,12 +12,10 @@ dependencies:
   - pip
   - pytask>=0.0.14
   - pytask-latex>=0.0.12
-
   - pytest
   - pytest-cov
   - python=3.9
   - python-graphviz
-
   - virtualenv=20.0.33
 
   - pip:
