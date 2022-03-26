@@ -15,7 +15,7 @@ One would need some familiarity with pytask to be able to run the code, which ha
 
 # The organization
 
-All files and folders have been put under `src' folder. 
+All files and folders have been put under src folder. All output files have been excluded from the remote repo but should be replicable using the code.  
 
 
 
