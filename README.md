@@ -8,7 +8,7 @@ IV Regression approach was taken in to account, to compute local projections.
 
 Please clone the repo. You would need to : 
 - Go to the folder and run conda-develop . 
-- pytask
+- Pytask
 
 One would need some familiarity with pytask to be able to run the code, which has been written on python. 
 
